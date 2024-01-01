@@ -1,1 +1,11 @@
 # COURSE MANAGEMENT SYSTEM
+
+# =========================================================
+
+1) USER INTERFACE ==> HTML, JSP, CSS, BOOTSTRAP, JAVASCRIPT
+2) BACKEND  ==> SERVLET , SQL
+3) DATABASE ==> MYSQL
+
+## APLLICATION IMAGES
+
+
