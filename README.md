@@ -23,8 +23,6 @@
 
 ![Screenshot 2023-04-17 230601](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/c1ddf1d3-6fb2-43a4-b520-50715fac2a7a)
 
-![Screenshot 2023-04-17 230944](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/9a5b747e-f12d-4fca-8e1e-3f03845915a6)
-
 ![Screenshot 2023-04-17 233050](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/1dedf4a0-76cd-4f9b-a104-c2293cf43a3d)
 
 ![Screenshot 2023-04-17 233127](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/fa179632-50c7-4409-8398-6edff8744d9f)
