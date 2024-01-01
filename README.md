@@ -31,7 +31,7 @@
 
 ![Screenshot 2023-04-17 233309](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/d599cfc4-2c85-4598-baa1-3f1e92a2d5ba)
 
-![Screenshot 2023-04-17 233403](https://github.com/rks-singh/E-LEARNING-PORTAL/assets/72653726/fe9c9237-8c4a-4aa8-bf88-2e2fa141f41e)
+
 
 
 
