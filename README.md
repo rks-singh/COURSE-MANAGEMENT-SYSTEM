@@ -1,4 +1,4 @@
-# COURSE MANAGEMENT SYSTEM
+# E-LEARNING-PORTAL
 
 # =========================
 
